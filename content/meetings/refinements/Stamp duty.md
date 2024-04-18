@@ -1,0 +1,28 @@
+### Refinement 2024-04-18 52m
+previous meeting on this topic: 2024-04-15
+
+01:30 JIRA:MTS-815
+11:20 JIRA:MTS-735 (see also previous topic)
+12:20 JIRA:MTS-654
+18:40 JIRA:MTS-671
+31:50 JIRA:MTS-657 
+35:40 JIRA:MTS-736
+37:15 JIRA:MTS-737
+38:20 JIRA:MTS-813
+40:25 JIRA:MTS-814
+43:14 JIRA:MTS-653
+49:15 JIRA:MTS-862 Grenada only
+
+
+
+
+
+
+
+
+
+
+
+
+
+
